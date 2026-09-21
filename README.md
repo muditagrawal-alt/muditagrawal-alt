@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mudit+%F0%9F%91%8B;AI%2FML+Engineer+%7C+RAG+%26+LLM+Systems;Third-Year+B.Tech+Student+%40+IILM+University" alt="Typing SVG" />
+<img src="./profile_banner.jpeg" alt="Mudit Agrawal" />
 
 </div>
 
