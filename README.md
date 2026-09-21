@@ -74,4 +74,3 @@ Currently exploring distributed ML training, semi-supervised learning, and hardw
 <img src="https://komarev.com/ghpvc/?username=muditagrawal-alt&style=flat-square&color=2EA3F2&label=Profile+views" alt="profile views" />
 
 </div>
-</content>
