@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm a third-year B.Tech student specializing in AI/ML at IILM University, Greater Noida. I build things at the intersection of retrieval, LLMs, and computer vision — mostly RAG pipelines, document intelligence, and real-time detection systems.
+I'm a final-year B.Tech student specialising in AI/ML at IILM University, Greater Noida. I build things at the intersection of retrieval, LLMs, and computer vision, mostly RAG pipelines, document intelligence, and real-time detection systems.
 
 Recent internships:
 - **AI/ML Intern @ Carnot Research Pvt. Ltd.** (IITD-incubated) — built a production RAG + ETL platform for NITI Aayog's NDAP portal, integrated a 9,000+ line email/scheduling agent, and benchmarked 3 on-premise RAG architectures on Intel hardware
